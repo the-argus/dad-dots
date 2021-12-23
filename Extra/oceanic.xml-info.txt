@@ -1,0 +1,1 @@
+belongs in the /usr/share/gtksourceview-4/styles/ directory. then, in gedit, go Preferences > Fonts and Colors > Color Scheme and select Oceanic.

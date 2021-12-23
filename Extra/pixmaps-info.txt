@@ -1,0 +1,3 @@
+contents of this folder belond in /usr/share/pixmaps
+
+used by lightdm for backgrounds and profile pictures

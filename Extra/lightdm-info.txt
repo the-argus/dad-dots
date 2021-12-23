@@ -1,0 +1,9 @@
+just copy the contents of the lightdm folder into /etc/lightdm
+
+youll need:
+lightdm
+lightdm-gtk-greeter
+lightdm-webkit2-greeter
+lightdm-webkit2-theme-glorious
+
+go into /etc/lightdm/lightdm.conf and change the greeter-session from lightdm-gtk-greeter to lightdm-webkit2-greeter if you want to try the other theme with my background

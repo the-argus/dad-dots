@@ -1,0 +1,5 @@
+#!/bin/bash
+feh --bg-fill ~/.wallpapers/mountain.jpg
+picom -b &
+xcape -e 'Super_L=Super_L|Alt_L|x' &
+#alacritty &

@@ -1,0 +1,5 @@
+run a quick "sudo pacman -S oceanic-gtk-theme"
+
+then "sudo cp new-oceanic-gtk.css /usr/share/themes/oceanic/gtk-3.0/gtk.css"
+
+this css file is a modified version of that oceanic theme. just color replacement
