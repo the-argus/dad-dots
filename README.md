@@ -19,7 +19,7 @@ check in the Extra folder for my modified oceanic gtk theme, gedit syntax highli
 
 ![preview](Pictures/screenshots/PREVIEW-rofi-ontop.png)
 
-##Programs:
+# Programs
 ```
 lightdm (lightdm-gtk-greeter or lightdm-webkit2-greeter with lightdm-webkit2-theme-glorious)
 i3-gaps
@@ -38,7 +38,7 @@ gedit
 galculator
 ```
 
-##Packages
+# Packages
 you may need to also install these so stuff works
 ```
 oceanic-gtk-theme
